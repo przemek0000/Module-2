@@ -1,0 +1,20 @@
+.main{
+    background-color: #fff;
+}
+
+.header{
+    color: yellow;
+    background-color: rgb(133, 133, 133);
+}
+
+.hiddenTextWhite{
+    color: white;
+}
+
+.hiddenTextBlack{
+    color: black;
+}
+
+.click2{
+    color: white;
+}
